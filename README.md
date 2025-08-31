@@ -1,6 +1,7 @@
 <h1>Hi, I'm Yun — <br/>Data Scientist & Business Analyst</h1>
 
-I turn messy data into clear decisions. My work spans optimization, forecasting, and geospatial analytics with a strong focus on business outcomes and reproducibility.
+Hi, I’m Yun — a recent graduate from the University of Sydney in Data Science & Business Analytics.
+I turn messy data into clear decisions, with experience spanning optimization, forecasting, and geospatial analytics. The projects below showcase my academic work, where I focused on delivering business impact through rigorous analysis, clear communication, and reproducible workflows.
 
 ---
 
