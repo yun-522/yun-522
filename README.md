@@ -40,6 +40,12 @@ Built multiple-step-ahead forecasting models for quarterly CPI data, evaluating 
 **Tech:** Python (pandas, statsmodels, scikit-learn), time-series modeling, ARIMA, forecasting evaluation<br>
 **Repo:** [cpi-forecasting](https://github.com/yun-522/CPI-Time-Series-Forecasting-.git) (notebooks, forecast CSVs, MSE evaluation)
 
+### 6) Building Heating Load Prediction (Regression Models)  
+Developed predictive models to estimate **daily heating energy demand** of buildings using structural and environmental variables (e.g., building height, insulation, temperature, sunlight). Compared **OLS, Polynomial Regression, Ridge, Lasso, and KNN** for accuracy and interpretability. Final submission included EDA, model diagnostics, and predictions on withheld test data.  
+
+**Tech:** Python (pandas, scikit-learn, matplotlib), regression modeling, feature selection, evaluation (RMSE, AIC, BIC)  
+**Repo:** heating-load-prediction (notebooks, sample datasets, reports, predictions)  
+
 ---
 
 ## 🛠️ Tech Stack
