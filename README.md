@@ -17,7 +17,8 @@ I turn messy data into clear decisions, with experience spanning optimization, f
 ### 1) NSW Milk Distribution Optimization (Gurobi, MIP)
 Optimized distribution-center placement and routing across NSW to minimize total costs under capacity and coverage constraints. Solved a large MIP (16k+ binaries) and identified an optimal set of DC locations with quantified savings.  
 **Tech:** Python, Gurobi, MIP modeling, scenario analysis  
-**Repo:** `milk-distribution-optimization` (code, model files, report, result visualizations)
+**Repo:** [Milk-Distribution-Optimization](https://github.com/yun-522/Milk-Distribution-Optimization)
+ (code, model files, report, result)
 
 ### 2) Stock Volatility Forecasting (HAR-RV, XGBoost)
 Built and compared HAR-RV and ML models to forecast realized volatility from high-frequency features; evaluated with MAE, RMSE, R², and QLIKE. Final selection balanced accuracy and interpretability for stakeholder communication.  
