@@ -38,7 +38,7 @@ Designed a spatial analytics pipeline to measure how “bustling” neighbourhoo
 ### 5) CPI Time-Series Forecasting (Inflation Modeling)
 Built multiple-step-ahead forecasting models for quarterly CPI data, evaluating accuracy with mean squared error (MSE). Implemented and compared ARIMA and ML-based approaches to forecast 2022–2023 test values from historical CPI (1997–2021). Final submission achieved accurate forecasts and emphasized clear documentation and reproducibility. <br>
 **Tech:** Python (pandas, statsmodels, scikit-learn), time-series modeling, ARIMA, forecasting evaluation<br>
-**Repo:** cpi-forecasting(https://github.com/yun-522/CPI-Time-Series-Forecasting-.git) (notebooks, forecast CSVs, MSE evaluation)
+**Repo:** [cpi-forecasting](https://github.com/yun-522/CPI-Time-Series-Forecasting-.git) (notebooks, forecast CSVs, MSE evaluation)
 
 ---
 
