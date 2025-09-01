@@ -44,7 +44,7 @@ Built multiple-step-ahead forecasting models for quarterly CPI data, evaluating 
 Developed predictive models to estimate **daily heating energy demand** of buildings using structural and environmental variables (e.g., building height, insulation, temperature, sunlight). Compared **OLS, Polynomial Regression, Ridge, Lasso, and KNN** for accuracy and interpretability. Final submission included EDA, model diagnostics, and predictions on withheld test data.  
 
 **Tech:** Python (pandas, scikit-learn, matplotlib), regression modeling, feature selection, evaluation (RMSE, AIC, BIC)  
-**Repo:** heating-load-prediction (notebooks, sample datasets, reports, predictions)  
+**Repo:** [heating-load-prediction](https://github.com/yun-522/heating-load-prediction.git) (notebooks, sample datasets, reports, predictions)  
 
 ---
 
