@@ -22,7 +22,7 @@ Optimized distribution-center placement and routing across NSW to minimize total
 
 ### 2) Stock Volatility Forecasting (HAR-RV, XGBoost)
 Built and compared HAR-RV and ML models to forecast realized volatility from high-frequency features; evaluated with MAE, RMSE, R², and QLIKE. Final selection balanced accuracy and interpretability for stakeholder communication.  
-**Tech:** Python (pandas, scikit-learn, XGBoost), time-series features, error analysis  
+**Tech:** [Stock Volatility Forecasting](https://github.com/yun-522/Stock-Volatility-Forecasting.git)Python (pandas, scikit-learn, XGBoost), time-series features, error analysis  
 **Repo:** `volatility-forecasting-hf` (data prep, model training, metrics dashboard)
 
 ### 3) Great Barrier Reef Bleaching Prediction (Interdisciplinary Data Science Capstone)
