@@ -33,7 +33,7 @@ Developed predictive models to assess coral bleaching severity across northern, 
 ### 4) Greater Sydney “Bustling Index” (Spatial Data Science Workflow)
 Designed a spatial analytics pipeline to measure how “bustling” neighbourhoods across Greater Sydney are, by integrating multiple datasets (population, transport stops, polling stations, schools, businesses, parking meters, and taxi ranks). My role focused on Task 1 (data ingestion & cleaning) and Task 2 (metric design & scoring), including developing a z-score based index of well-resourced neighbourhoods. <br>
 **Tech:** PostgreSQL/PostGIS, Python (pandas, geopandas), SQL, spatial joins<br>
-**Repo:** greater-sydney-bustling-index (ETL pipeline, SQL schema, score analysis)
+**Repo:** [greater-sydney-bustling-index](https://github.com/yun-522/Greater-Sydney-Analysis-Assignment-DATA2001.git) (ETL pipeline, SQL schema, score analysis)
 
 ### 5) CPI Time-Series Forecasting (Inflation Modeling)
 Built multiple-step-ahead forecasting models for quarterly CPI data, evaluating accuracy with mean squared error (MSE). Implemented and compared ARIMA and ML-based approaches to forecast 2022–2023 test values from historical CPI (1997–2021). Final submission achieved accurate forecasts and emphasized clear documentation and reproducibility. <br>
