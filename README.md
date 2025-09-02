@@ -28,7 +28,7 @@ Built and compared HAR-RV and ML models to forecast realized volatility from hig
 ### 3) Great Barrier Reef Bleaching Prediction (Interdisciplinary Data Science Capstone)
 Developed predictive models to assess coral bleaching severity across northern, central, and southern zones of the GBR, in collaboration with marine science students. My contributions included first-version model development on the full dataset, presentation of results, creating the project schematic, and writing the Results – Part A (Data) and Part B (Modeling) sections of the report. Models were compared (SVM, Ordinal Tree, etc.) across regions; key predictors identified included temperature, pH, nitrogen concentration, and salinity. <br>
 **Tech:** R (caret, randomForest, e1071, ggplot2), SHAP/PDP visualizations, geospatial data integration<br>
-**Repo:** gbr-bleaching-ml (R scripts, schematic, reports, maps)
+**Repo:** [gbr-bleaching-ml](https://github.com/yun-522/Great-Barrier-Reef-Coral-Bleaching-Prediction-Interdisciplinary-Capstone-.git) (R scripts, schematic, reports, maps)
 
 ### 4) Greater Sydney “Bustling Index” (Spatial Data Science Workflow)
 Designed a spatial analytics pipeline to measure how “bustling” neighbourhoods across Greater Sydney are, by integrating multiple datasets (population, transport stops, polling stations, schools, businesses, parking meters, and taxi ranks). My role focused on Task 1 (data ingestion & cleaning) and Task 2 (metric design & scoring), including developing a z-score based index of well-resourced neighbourhoods. <br>
