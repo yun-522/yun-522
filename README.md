@@ -12,7 +12,7 @@ I turn messy data into clear decisions, with experience spanning optimization, f
 
 --
 
-## Licenses & Certifications<br>
+## 🏅Licenses & Certifications<br>
 **Certification Name:** [Google Data Analytics Professional Certificate](https://www.credly.com/badges/779e824f-350e-461c-8837-598292a8abd8/linked_in_profile)<br>
 **Issuing Organization:** Coursera / Google<br>
 **Issue Date:** December 29, 2024
