@@ -10,7 +10,7 @@ I turn messy data into clear decisions, with experience spanning optimization, f
 - **Reproducible science:** clean, documented notebooks + clear READMEs.
 - **End-to-end projects:** data ingestion → modeling → evaluation → business narrative.
 
---
+---
 
 ## 🏅Licenses & Certifications<br>
 **Certification Name:** [Google Data Analytics Professional Certificate](https://www.credly.com/badges/779e824f-350e-461c-8837-598292a8abd8/linked_in_profile)<br>
